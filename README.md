@@ -7,8 +7,6 @@ This project includes **separate user and admin panels**, allowing seamless food
 
 ## 🔗 Live Application Links
 
-> ⚠️ _Replace these links after deployment_
-
 - 👤 **User Frontend (Foodies)**  
   👉 https://foodcourtuserr.netlify.app
 
